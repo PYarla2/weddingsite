@@ -65,7 +65,7 @@ const TravelPlanner = () => {
           Using Voyjourno helps us coordinate arrivals and ensure everyone has the information they need for our special weekend.
         </InfoText>
         <TravelLink href="https://voyjourno.com" target="_blank" rel="noopener noreferrer">
-          Book Through VoyJournp
+          Book Through VoyJourno
         </TravelLink>
       </InfoSection>
     </PlannerContainer>
