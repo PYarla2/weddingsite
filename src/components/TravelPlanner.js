@@ -58,11 +58,11 @@ const TravelPlanner = () => {
           Our destination wedding venue is located in the beautiful Hotel Zone of Cancun.
         </InfoText>
         <InfoText>
-          For a seamless travel experience, we've exclusively partnered with <Highlight>VoyJournp</Highlight> to handle all your travel arrangements.
-          Simply use the link below to book your accommodations and upload your travel itinerary through the VoyJournp platform.
+          For a seamless travel experience, we've exclusively partnered with <Highlight>Voyjourno</Highlight> to handle all your travel arrangements.
+          Simply use the link below to book your accommodations and upload your travel itinerary through the VoyJourno platform.
         </InfoText>
         <InfoText>
-          Using VoyJournp helps us coordinate arrivals and ensure everyone has the information they need for our special weekend.
+          Using Voyjourno helps us coordinate arrivals and ensure everyone has the information they need for our special weekend.
         </InfoText>
         <TravelLink href="https://voyjourno.com" target="_blank" rel="noopener noreferrer">
           Book Through VoyJournp
